@@ -1,22 +1,18 @@
 body {
-  background-color: yellowgreen;
+  background-color: LightSeaGreen;
 }
 p {
-  color: greenyellow;
+  color: LightGreen
 }
 a:link {
-  color: royalblue;
-  text-decoration: none;
+  color: LightSalmon;
 }
 a:visited {
-  color: lightcoral;
-  text-decoration: none;
+  color: LightPink;
 }
 a:hover {
-  background-color: rgba(0,0,0,.25)
-    text-decoration: underline;
+  background-color: LightSkyBlue;
 }
 a:active {
-  color: orangered;
-  text-decoration: underline;
+  color: LightGoldenrodYellow;
 }
