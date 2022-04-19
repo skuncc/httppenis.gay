@@ -1,8 +1,24 @@
 body {
-  background-color: rgb(39, 48, 10);
+  background-color: light-blue;
 }
 
 p {
   color: #f33bee;
   margin: auto;
+}
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: yellow;
+}
+
+a:hover {
+  background-color: rgba(0,0,0,.5)
+}
+
+a:active {
+  color: blue;
 }
