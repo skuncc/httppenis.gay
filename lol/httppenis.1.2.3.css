@@ -2,13 +2,13 @@ body {
   background-color: LightSeaGreen;
 }
 p {
-  color: LightGreen
+  color: LightGreen;
 }
 a:link {
-  color: LightSkyBlue;
+  color: LightPink;
 }
 a:visited {
-  color: LightPink;
+  color: LightSkyBlue;
   text-decoration: none;
 }
 a:hover {
