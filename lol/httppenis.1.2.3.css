@@ -5,13 +5,16 @@ p {
   color: LightGreen
 }
 a:link {
-  color: LightSalmon;
+  color: LightSkyBlue;
 }
 a:visited {
   color: LightPink;
+  text-decoration: none;
 }
 a:hover {
-  background-color: LightSkyBlue;
+  color: LightSeaGreen;
+  background-color: LightSalmon;
+  text-decoration: none;
 }
 a:active {
   color: LightGoldenrodYellow;
