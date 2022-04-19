@@ -1,24 +1,22 @@
 body {
-  background-color: deepskyblue;
+  background-color: yellowgreen;
 }
-
 p {
-  color: #f33bee;
-  margin: auto;
+  color: greenyellow;
 }
-
 a:link {
-  color: orange;
+  color: royalblue;
+  text-decoration: none;
 }
-
 a:visited {
-  color: yellow;
+  color: lightcoral;
+  text-decoration: none;
 }
-
 a:hover {
-  background-color: rgba(0,0,0,.5)
+  background-color: rgba(0,0,0,.25)
+    text-decoration: underline;
 }
-
 a:active {
-  color: blue;
+  color: orangered;
+  text-decoration: underline;
 }
