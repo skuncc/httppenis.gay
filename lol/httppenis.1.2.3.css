@@ -1,21 +1,6 @@
-body {
-  background-color: LightSeaGreen;
-}
-p {
-  color: LightGreen;
-}
-a:link {
-  color: LightPink;
-}
-a:visited {
-  color: LightSkyBlue;
-  text-decoration: none;
-}
-a:hover {
-  color: LightSeaGreen;
-  background-color: LightSalmon;
-  text-decoration: none;
-}
-a:active {
-  color: LightGoldenrodYellow;
-}
+body{background-color:silver;}
+p{color:lime;}
+a:link{color:blue;}
+a:visited{color:teal;}
+a:hover{color:aqua;}
+a:active{color:navy;}
